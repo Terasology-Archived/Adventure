@@ -1,0 +1,9 @@
+{
+    "id" : "Adventure",
+    "version" : "0.1.0",
+    "author" : "MrBarsack",
+    "displayName" : "Adventure Mod",
+    "description" : "A module to simplify the creation of adventure maps.",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}
